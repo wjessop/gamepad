@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 	spec.email         = ["will@willj.net"]
 	spec.description   = %q{Get values from an xbox1 gamepad}
 	spec.summary       = %q{Get values from an xbox1 gamepad}
-	spec.homepage      = ""
+	spec.homepage      = "https://github.com/wjessop/gamepad"
 	spec.license       = "MIT"
 
 	spec.files         = `git ls-files`.split($/)
