@@ -1,6 +1,6 @@
 # gamepad
 
-Gamepad is a gem I wrote to get the values of my xbox1 controller in a ruby program (to control my Parrot AR drone). I plan to use it for piloting my Parrot AR drone and other robotics stuff. It wasn't designed for use in game libraries, but it might work for you.
+Gamepad is a gem I wrote to get the values of my xbox1 controller in a ruby program (to control my Parrot AR drone). I plan to use it for piloting my Parrot AR drone and other robotics stuff. So far I've only used it to control my [ping-pong robot](http://blog.willj.net/category/ping-pong-robot/) though. It wasn't designed for use in game libraries, but it might work for you.
 
 Right now only (original) xbox1 controllers are supported. I plan to add PS1 controller support when I have time, and support for other controllers if I ever get any (and also have time).
 
